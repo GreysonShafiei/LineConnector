@@ -1,2 +1,2 @@
 # LineConnector
-This is my Final project for my Intro to game design class ITCS 5230
+This is my Final project for my Intro to Game Design class ITCS 5230
