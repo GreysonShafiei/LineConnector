@@ -1,0 +1,19 @@
+{
+    "name": "Connect.project",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "OtherAssemblyReferences",
+        "GUID:656e461844099ae43a609ff6109b0877",
+        "GUID:e8c1bc95b58794749948d46ceb9c27c6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
